@@ -55,6 +55,9 @@ Whether you're looking to adopt new habits or maintain existing ones, this app i
 
 5. **Cross-Platform Support**  
    - Compatible with Android and iOS devices.
+     
+6. **Community**  
+   - Integrated Chat Rooms For user chat.
 
 ---
 
@@ -63,13 +66,13 @@ Whether you're looking to adopt new habits or maintain existing ones, this app i
 ### Frontend:
 - **Framework/Language:** Dart (using Flutter framework)
 - **UI Design:** Flutter Widgets and Material Design principles.
-- **State Management:** Provider, Riverpod, or Bloc (Specify the one you're using).
+- **State Management:** Bloc (Specify the one you're using).
 
 ### Backend:
 - **Language:** Python
-- **Frameworks/Tools:** Flask, FastAPI, or Django (Specify the one you're using).
-- **Database:** SQLite, Firebase, or any other database used for storing user data (Please specify).
-- **AI Models:** TensorFlow, PyTorch, or any other library used for building the recommendation and reminder models.
+- **Frameworks/Tools:** Flask.
+- **Database:** SQLite, Firebase.
+- **AI Models:** TensorFlow Lite.
 
 ---
 
@@ -90,7 +93,7 @@ Whether you're looking to adopt new habits or maintain existing ones, this app i
    - Progress tracking and history.
    - Option to edit or delete the habit.
 
-### 4. **Analytics Page**
+### 4. **Dashboard Page**
    - Visual representation of habit progress.
    - Achievements and milestones.
    - Insights into user behavior and suggestions for improvement.
@@ -180,7 +183,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions, feel free to reach out:
 - **GitHub:** [KeRoM-01](https://github.com/KeRoM-01)
-- **Email:** [YourEmail@example.com]
+- **Email:** [Kerollosmagdy31@gmail.com]
 
 ---
 
